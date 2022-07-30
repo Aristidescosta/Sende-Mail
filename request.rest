@@ -1,0 +1,9 @@
+POST http://127.0.0.1:8081/send-e-mail
+Content-Type: application/json
+
+
+{
+    "name": "Aristides Costa",
+    "email": "aristidiscosta200@gmail.com",
+    "message": "Quero comprar um carro"
+}
